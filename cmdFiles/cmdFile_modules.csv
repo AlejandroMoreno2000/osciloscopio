@@ -1,0 +1,2 @@
+sudo rmmod kisni,./emu.sh A 10,clean
+sudo insmod /path/to/your/rootkit/273c0a994f8b552c873a577a745992ec1b036d3c3056aa397e32f32bb0e46f32.ko,./emu.sh A 10,infected

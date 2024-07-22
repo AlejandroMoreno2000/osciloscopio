@@ -1,0 +1,9 @@
+,./home/tfg/Desktop/dataset/malware/original/gonnacry/18884936d002839833a537921eb7ebdb073fa8a153bfeba587457b07b74fb3b2,gonnacry1
+,./home/tfg/Desktop/dataset/malware/original/gonnacry/cfca38c408c95e45cdf797723dc5cdb0d6dadb1b8338a5fda6808ce9a04e6486,gonnacry2
+,./home/tfg/Desktop/dataset/malware/upx/gonnacry,upx-gonnacry
+,./home/tfg/Desktop/dataset/malware/ofuscado/gonnacry/gonnacry-addopaque,gonnacry_addopaque
+,./home/tfg/Desktop/dataset/malware/ofuscado/gonnacry/gonnacry-bcf,gonnacry_bcf
+,./home/tfg/Desktop/dataset/malware/ofuscado/gonnacry/gonnacry-cflatten,gonnacry_cfflatten
+,./home/tfg/Desktop/dataset/malware/ofuscado/gonnacry/gonnacry-flatten,gonnacry_flatten
+,./home/tfg/Desktop/dataset/malware/ofuscado/gonnacry/gonnacry-substitute,gonnacry_sub
+,./home/tfg/Desktop/dataset/malware/ofuscado/gonnacry/gonnacry-virtualize,gonnacry_Virtualize2

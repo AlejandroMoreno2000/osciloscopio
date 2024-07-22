@@ -1,0 +1,10 @@
+,/home/tfg/Desktop/dataset/malware/original/bashlite,bashlite
+,/home/tfg/Desktop/dataset/malware/ofuscado/bashlite/bahslite-bcf,bashlite_bcf
+,/home/tfg/Desktop/dataset/malware/ofuscado/bashlite/bahslite-flatten,bashlite_flatten
+,/home/tfg/Desktop/dataset/malware/upx/bashlite-upx,bashlite_upx
+,/home/tfg/Desktop/dataset/malware/ofuscado/bashlite/bahslite-addopaque,bashlite_addopaque
+,/home/tfg/Desktop/dataset/malware/ofuscado/bashlite/bahslite-cflatten,bashlite_cfflatten
+,/home/tfg/Desktop/dataset/malware/ofuscado/bashlite/bahslite-substitute,bashlite_sub
+,/home/tfg/Desktop/dataset/malware/ofuscado/bashlite/bahslite-virtualize,bashlite_virtualize
+
+

@@ -1,0 +1,8 @@
+,./home/tfg/Desktop/dataset/malware/original/mirai/c78728c01c81847f51fad4c13a17cf6fd1ad7c780289d9e50c89d29a0bc9fb0b,mirai
+,./home/tfg/Desktop/dataset/malware/upx/mirai-upx,upx-mirai
+,./home/tfg/Desktop/dataset/malware/ofuscado/mirai/mirai-addopaque,mirai_addopaque
+,./home/tfg/Desktop/dataset/malware/ofuscado/mirai/mirai-bcf,mirai-bcf
+,./home/tfg/Desktop/dataset/malware/ofuscado/mirai/mirai-cflatten,mirai-cfflatten
+,./home/tfg/Desktop/dataset/malware/ofuscado/mirai/mirai-flatten,mirai_flatten
+,./home/tfg/Desktop/dataset/malware/ofuscado/mirai/mirai-substitute,mirai-sub
+,./home/tfg/Desktop/dataset/malware/ofuscado/mirai/mirai-virtualize,mirai_virtualize

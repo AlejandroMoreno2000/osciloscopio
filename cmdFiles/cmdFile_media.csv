@@ -1,0 +1,10 @@
+,/usr/bin/mpg321 -n 50 /home/tfg/Music/Bastille-Pompeii.mp3,playaudio
+,ffmpeg -f lavfi -i color=c=black:s=640x480:d=2 -vf "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='Test Video':fontcolor=white:fontsize=24:x=(w-text_w)/2:y=(h-text_h)/2" -vcodec libx264 /home/tfg/Videos/test_video.h264,takepicture
+,ffmpeg -f lavfi -i testsrc=duration=2:size=640x480:rate=30 -vcodec libx264 /home/tfg/Videos/test_vid.h264,recordcamera
+,MP4Box -add /home/tfg/Videos/test_vid.h264 /home/tfg/Videos/test_vid.mp4,encodevideo
+
+
+
+
+
+
